@@ -18,7 +18,7 @@ public class MyService extends IntentService{
 
     @Override
     protected void onHandleIntent(@Nullable Intent intent) {
-        Log.d("4ITF", "My Service is up. ");
+        Log.d("4ITF", "My Service is RUNNING! ");
 
     }
 }
